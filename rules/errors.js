@@ -48,7 +48,6 @@ module.exports = {
         'no-unsafe-finally': 'error',
         'no-unsafe-negation': 'error',
         'no-unsafe-optional-chaining': ['off', { disallowArithmeticOperators: true }],
-        // TODO: enable, semver-minor, once eslint v7 is required (which is major)
         'no-useless-backreference': 'off',
         'no-negated-in-lhs': 'off',
         'require-atomic-updates': 'off',
