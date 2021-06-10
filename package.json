@@ -18,6 +18,8 @@
     "url": "https://github.com/mparulski/es-project-eslint/issues"
   },
   "homepage": "https://github.com/mparulski/es-project-eslint#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "2.3.1"
   }
 }
